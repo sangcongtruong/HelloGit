@@ -4,10 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-//import org.testng.annotations.*;
-
 public class AppTest {
-
     @Test
     public void testApp() {
         App app = new App();
@@ -34,7 +31,6 @@ public class AppTest {
         Bit b1 = new Bit(1);
         assertTrue(b1.value());
         assertTrue(b0.valueAsChar() == '0');
-
     }
 
     @Test
@@ -55,7 +51,6 @@ public class AppTest {
         assertTrue(b1.value());
         Bit b0 = Bit.newZero();
         assertFalse(b0.value());
-
     }
 
     /*@Test
@@ -64,9 +59,6 @@ public class AppTest {
         assertTrue(b1.value());
         Bit b0 = Bit.newZero(); 
         assertTrue(b0.value());
-
-
-
     }*/
 
     @Test
@@ -89,23 +81,11 @@ public class AppTest {
         assertFalse(b4.xor(b5));
     }
 
-
-
-
-
-
-
-
     @Test
     public void testBit2() {
         Bit2 b0 = new Bit2(false);
         Bit2 b1 = new Bit2(1);
         assertTrue(b1.value());
         assertTrue(b0.valueAsChar() == '0');
-
     }
-
-
-
-
 }
