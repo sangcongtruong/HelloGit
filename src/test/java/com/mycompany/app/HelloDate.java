@@ -5,7 +5,7 @@ import java.util.*;
 /** The second example program, and the first example of a class comment.
  *  Key new ides: (a) Use of import and Java standard library, (b)
  *  use of comment documentation.  Note the openning /**
- *  This example stolen from Bruce Ecke's Thinking in Java.  Most
+ *  This example stolen frodfsdfasdfsdfsdfsdfasdfasfsafsm Bruce Ecke's Thinking in Java.  Most
  *  examples stolen from Pat Troy and modified lightly.  Examples
  *  generally don't have any comments; studenassat code will have
  *  comments, and in particular, class comments.
