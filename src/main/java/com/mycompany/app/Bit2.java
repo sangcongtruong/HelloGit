@@ -3,7 +3,7 @@ package com.mycompany.app;
 /**
  * Created bys IntelliJ IDEA.
  * User: pesekbvxcvxcvdfdfsdfsd
- * Date: 12.10.11dfsfsfsdfs
+ * Date: 12.10.11dfsfsfsdfsdfdsfsdfsdfs
  * Time: 15:41
  * To change this template use File | Settings | File Templates.
  */
