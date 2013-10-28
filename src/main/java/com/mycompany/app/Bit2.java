@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Created bys IntelliJ IDEA.
  * User: pesekbvxcvxcvdfdfsdfsd
  * Date: 12.10.11dfsfsfsdfsdfdsfsdfsdfs
- * Time: 15:41
+ * Time: 15:41bhbvhbv
  * To change this template use File | Settings | File Templates.
  */
 public class Bit2 {
